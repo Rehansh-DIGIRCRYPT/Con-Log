@@ -24,7 +24,7 @@ A stealth browser-based recon tool that silently captures real IP addresses, eve
 
 ```bash
 # Clone the repo
-git clone https://github.com/sneckey0day/CreeperLog
+git clone https://github.com/Rehansh-DIGIRCRYPT/Con-Log
 cd CreeperLog
 
 # Install requirements
