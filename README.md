@@ -6,8 +6,7 @@ A stealth browser-based recon tool that silently captures real IP addresses, eve
 
 ## 📸 Screenshot
 
-![Screenshot](assets/Screenshot%20from%202025-10-01%2015-18-54.png)
-(
+![Screenshot](assets/Screenshot%20from%202025-10-01%2015-18-54.png,assets/Screenshot%20from%202025-10-01%2015-19-25.png)
 
 ---
 
