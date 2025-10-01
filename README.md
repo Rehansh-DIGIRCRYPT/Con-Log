@@ -1,4 +1,4 @@
-## ⚡ IP Recon Logger — Stealth IP Capture Tool
++++++++++## ⚡ IP Recon Logger — Stealth IP Capture Tool
 
 A stealth browser-based recon tool that silently captures real IP addresses, even when a VPN is in use, using WebRTC leaks and fallback techniques. It also logs User-Agent, timezone, language, and more — while showing a decoy page to the target. Perfect for Red Team recon and footprinting.
 
@@ -6,7 +6,8 @@ A stealth browser-based recon tool that silently captures real IP addresses, eve
 
 ## 📸 Screenshot
 
-![Screenshot](assets/Screenshot%20from%202025-10-01%2015-18-54.png,assets/Screenshot%20from%202025-10-01%2015-19-25.png)
+![Screenshot](assets/Screenshot%20from%202025-10-01%2015-18-54.png)
+![Screenshot](assets/Screenshot%20from%202025-10-01%2015-19-25.png)
 
 ---
 
